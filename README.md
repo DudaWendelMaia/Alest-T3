@@ -1,3 +1,5 @@
+Exercicio desenvolvido para o trabalho 3 da cadeira de Algoritmos e Estruturas de Dados
+
 # T3 Alest 
 Trabalhando com Árvores
 
